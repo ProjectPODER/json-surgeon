@@ -1,0 +1,17 @@
+[
+    {
+        "fields": [
+            "fecha_inicio",
+            "fecha_fin",
+            "fecha_entrega",
+            "fecha_expedicion",
+            "fecha_factura"
+        ],
+        "operation": "convertDates",
+        "type": "value",
+        "options": {
+            "from": "dd/mm/yyyy",
+            "to": "yyyy-mm-dd"
+        }
+    }
+]

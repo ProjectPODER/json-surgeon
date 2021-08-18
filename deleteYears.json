@@ -1,0 +1,9 @@
+[
+    {
+        "fields": [
+            "years"
+        ],
+        "operation": "deleteField",
+        "type": "transform"
+    }
+]
