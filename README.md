@@ -1,5 +1,7 @@
 # json-surgeon
 
+![SURGEON](https://media.giphy.com/media/dv78V39sfMssrjpHWO/giphy.gif)
+
 Perform conversions of all sorts on a stream of JSON objects (valid or not).
 
 ## Usage
