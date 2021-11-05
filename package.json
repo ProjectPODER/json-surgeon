@@ -1,6 +1,6 @@
 {
   "name": "json-surgeon",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "description": "Perform conversions of all sorts on a stream of JSON objects (valid or not).",
   "main": "index.js",
   "scripts": {
