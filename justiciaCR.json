@@ -1,0 +1,7 @@
+[
+    {
+        "operation": "fixQuotes",
+        "type": "raw",
+        "tag": "fixed"
+    }
+]
